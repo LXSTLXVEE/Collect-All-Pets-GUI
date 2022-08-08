@@ -1,0 +1,15 @@
+{
+  "name": "petsgui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "luaccbundle src src/init.lua"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "luaccbundle": "^1.0.0"
+  }
+}
