@@ -1,5 +1,11 @@
 # collect all pets gui
 
+## Usage
+
+```lua
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/LXSTLXVEE/Collect-All-Pets-GUI/main/bundle.lua'))()
+```
+
 ## Building
 
 1. Clone the repository
